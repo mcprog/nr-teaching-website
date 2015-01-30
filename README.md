@@ -39,8 +39,9 @@ e.g. “Roger Carson” might have a username of “rcarson”
 ```html
 <body>
     <h1>Your Welcome Message Here</h1>
-    <h1>Your Subheading Here</h1>
-    <h1>Your Article Heading Here</h1>
-    <h1>Your Article Subheading Here</h1>
-    <h1>Your Subarticle Heading Here</h1>
+    <h2>Your Subheading Here</h2>
+    <h3>Your Article Heading Here</h3>
+    <h4>Your Article Subheading Here</h4>
+    <h5>Your Subarticle Heading Here</h5>
+    <h6>Your Subarticle Subheading Here</h6>
 </body>
