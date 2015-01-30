@@ -48,5 +48,5 @@ e.g. “Roger Carson” might have a username of “rcarson”
 ```
 25. An image can be added using
 ```html
-<img scr="https://www.petfinder.com/wp-content/uploads/2012/11/99059361-choose-cat-litter-632x475.jpg">
+<img src="https://www.petfinder.com/wp-content/uploads/2012/11/99059361-choose-cat-litter-632x475.jpg">
 ```
