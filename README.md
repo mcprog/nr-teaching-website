@@ -21,7 +21,7 @@ e.g. “Roger Carson” might have a username of “rcarson”
 17. Name file ‘index.html’
 18. Hit Enter
 19. On line 1 type ‘<!DOCTYPE html>’
-20. Below line one type
+20. Below line 1 type
 ```html
 <html>
     <head>
@@ -45,3 +45,8 @@ e.g. “Roger Carson” might have a username of “rcarson”
     <h5>Your Subarticle Heading Here</h5>
     <h6>Your Subarticle Subheading Here</h6>
 </body>
+```
+25. An image can be added using
+```html
+<img scr="https://www.petfinder.com/wp-content/uploads/2012/11/99059361-choose-cat-litter-632x475.jpg">
+```
