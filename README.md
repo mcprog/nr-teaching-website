@@ -43,11 +43,28 @@ e.g. “Roger Carson” might have a username of “rcarson”
     <h2>Your Subheading Here</h2>
     <h3>Your Article Heading Here</h3>
     <h4>Your Article Subheading Here</h4>
-    <h5>Your Subarticle Heading Here</h5>
-    <h6>Your Subarticle Subheading Here</h6>
+    <h5>Your Sub-article Heading Here</h5>
+    <h6>Your Sub-article Subheading Here</h6>
 </body>
 ```
 25. An image can be added using
 ```html
 <img src="https://www.petfinder.com/wp-content/uploads/2012/11/99059361-choose-cat-litter-632x475.jpg">
 ```
+##How to create a basic website with with some simple elements and multiple pages
+1. Modify the body of index.html to have an image, a heading, a paragraph and a button
+2. Buttons can be add by the following code:
+```html
+<button>Click me</button>
+```
+3.  Here is an example of how you new body in index.html might look
+```html
+<body>
+    <h1>Welcome to my website</h1>
+    <p>This website is a website I created to better my skills in html. It does not have any real purpose, save education and practice. Thank you for visiting.</p>
+    <img src="http://www.byui.edu/images/agriculture-life-sciences/flower.jpg">
+    <button>Go to second page</button>
+</body>
+```
+4. Now create the nex page by
+    
