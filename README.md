@@ -66,5 +66,19 @@ e.g. “Roger Carson” might have a username of “rcarson”
     <button>Go to second page</button>
 </body>
 ```
-4. Now create the nex page by
-    
+4. Now create the next page by going to username/website-name
+5. Click the '+' to create new file
+6. Name it second.html
+7. Put the following code in second.html
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Second Page</title>
+    </head>
+    <body>
+        <h1>Welcome to the second page</h1>
+        <p>This is the second page. It is a cool page</p>
+        <button>Take me back to the homepage</button>
+    </body>
+</html>
