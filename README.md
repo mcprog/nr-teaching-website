@@ -1,5 +1,6 @@
 # nr-teaching-website
 A website created for teaching kids how to create and host a webpage
+link: http://mcprog.github.io/nr-teaching-website/
 ##How to create a basic webpage and publish it on the internet
 1.  GOTO: https://github.com/
 2.  Click **Sign Up**
