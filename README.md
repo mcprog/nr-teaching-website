@@ -55,7 +55,7 @@ e.g. “Roger Carson” might have a username of “rcarson”
 1. Modify the body of index.html to have an image, a heading, a paragraph and a button
 2. Buttons can be add by the following code:
 ```html
-<button>Click me</button>
+<a href="url"><button>Click me</button></a>
 ```
 3.  Here is an example of how you new body in index.html might look
 ```html
@@ -63,7 +63,7 @@ e.g. “Roger Carson” might have a username of “rcarson”
     <h1>Welcome to my website</h1>
     <p>This website is a website I created to better my skills in html. It does not have any real purpose, save education and practice. Thank you for visiting.</p>
     <img src="http://www.byui.edu/images/agriculture-life-sciences/flower.jpg">
-    <button>Go to second page</button>
+    <a href="second.html"><button>Go to second page</button></a>
 </body>
 ```
 4. Now create the next page by going to username/website-name
@@ -79,6 +79,6 @@ e.g. “Roger Carson” might have a username of “rcarson”
     <body>
         <h1>Welcome to the second page</h1>
         <p>This is the second page. It is a cool page</p>
-        <button>Take me back to the homepage</button>
+        <a href="index.html"><button>Take me back to the homepage</button></a>
     </body>
 </html>
